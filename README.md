@@ -56,9 +56,9 @@ Synthetic dataset including views, clicks, and purchases.
 | Conversion Rate | 15.0% | 16.0% |
 
 ## Tech Stack
+- Python (pandas, numpy, scikit-learn, scipy, statsmodels)
 - SQL
-- Python (pandas, sklearn)
-- Google Colab
+- Google Colab (for development and execution)
 
 ## How to Run
 Open the Colab notebook in:

@@ -3,6 +3,17 @@
 - Python (pandas, numpy, scikit-learn, scipy, statsmodels)
 - Google Colab
 
+## 🚀 Quick Start
+
+### Clone the repository
+```bash
+git clone https://github.com/YOUR_USERNAME/amazon-recommendation-system.git
+cd amazon-recommendation-system
+
+
+
+
+
 
 
 # Amazon-Style Recommendation System with A/B Testing

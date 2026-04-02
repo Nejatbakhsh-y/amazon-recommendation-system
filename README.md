@@ -4,7 +4,7 @@
 - SQL
 - Python (pandas, numpy, scikit-learn, scipy, statsmodels)
 - Google Colab
-
+Built using Python, SQL, and Google Colab for model development and experimentation.
 
 ## Run in Google Colab
 

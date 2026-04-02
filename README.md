@@ -12,7 +12,20 @@ cd amazon-recommendation-system
 
 
 
+## How to Run
 
+This project is designed to run in Google Colab.
+
+### Option 1: Open directly in Colab
+Click the Colab badge above.
+
+### Option 2: Run manually in Colab
+In a new Colab notebook, run:
+
+```python
+!git clone https://github.com/Nejatbakhsh-y/amazon-recommendation-system.git
+%cd amazon-recommendation-system
+!pip install -r requirements.txt
 
 
 

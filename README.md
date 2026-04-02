@@ -1,7 +1,14 @@
+
+
 # amazon-recommendation-system
 - SQL
 - Python (pandas, numpy, scikit-learn, scipy, statsmodels)
 - Google Colab
+
+
+## Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nejatbakhsh-y/amazon-recommendation-system/blob/main/notebooks/recommendation_model.ipynb)
 
 ## 🚀 Quick Start
 
